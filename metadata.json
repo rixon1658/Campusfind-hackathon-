@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind",
+  "description": "A college campus Lost & Found platform with AI-powered item matching and student messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
